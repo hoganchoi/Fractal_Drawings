@@ -18,6 +18,7 @@ After inputting a designated workspace folder, you will be met with 6 different 
 4. Create Mandelbrot Fractal
 5. Change ouptut directory
 6. Exit Program
+   
 Please enter the corresponding number for a certain command. Below details the parameters you would need to input
 for a certain Fractal.
 #### Create Fractal Canopy:
